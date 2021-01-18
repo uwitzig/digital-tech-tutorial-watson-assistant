@@ -7,7 +7,7 @@
 1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration).
 2. Fill in the required information and press the „Create Account“ button.
 3. After you submit your registration, you will receive an e-mail from the IBM Cloud team with details about your account. In this e-mail, you will need to click the link provided to confirm your registration.
-4. Now you should be able to login to your new IBM Cloud account ;-)
+4. Now you should be able to login to your new IBM Cloud account ;-) 
 
 ## Configuring the Watson Assistant on the IBM Cloud
 
